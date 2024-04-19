@@ -43,6 +43,8 @@ dependencies:
   firebase_auth: ^4.19.2
   firebase_storage: ^11.7.2
   shared_preferences: ^2.2.3
+  dio: ^5.4.3+1
+  gettext: ^1.2.0
 
 dev_dependencies:
   flutter_test:
